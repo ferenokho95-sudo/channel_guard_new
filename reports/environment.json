@@ -1,0 +1,12 @@
+{
+  "python": "3.12.14",
+  "packages": {
+    "numpy": "2.3.5",
+    "scikit-learn": "1.8.0",
+    "joblib": "1.5.3",
+    "torch": "2.15.0+cpu",
+    "transformers": "4.57.6",
+    "accelerate": "1.15.0",
+    "streamlit": "1.66.1"
+  }
+}

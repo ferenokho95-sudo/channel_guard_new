@@ -1,0 +1,432 @@
+[
+  {
+    "id": "0-14-0",
+    "group_id": "template-0-14",
+    "text": "Логин @example_user_00 используется как пример в инструкции. Тема обращения: доставка, заявка 200.",
+    "label": 0,
+    "source": "synthetic_template",
+    "review_status": "pending",
+    "score": 0.807048000793204,
+    "prediction": 1
+  },
+  {
+    "id": "0-14-1",
+    "group_id": "template-0-14",
+    "text": "Логин @example_user_01 используется как пример в инструкции. Тема обращения: оплата, заявка 201.",
+    "label": 0,
+    "source": "synthetic_template",
+    "review_status": "pending",
+    "score": 0.7605498694394424,
+    "prediction": 1
+  },
+  {
+    "id": "0-14-3",
+    "group_id": "template-0-14",
+    "text": "Логин @example_user_03 используется как пример в инструкции. Тема обращения: запись, заявка 203.",
+    "label": 0,
+    "source": "synthetic_template",
+    "review_status": "pending",
+    "score": 0.7742268782851744,
+    "prediction": 1
+  },
+  {
+    "id": "0-14-5",
+    "group_id": "template-0-14",
+    "text": "Логин @example_user_05 используется как пример в инструкции. Тема обращения: оплата, заявка 205.",
+    "label": 0,
+    "source": "synthetic_template",
+    "review_status": "pending",
+    "score": 0.7674825491408229,
+    "prediction": 1
+  },
+  {
+    "id": "0-14-6",
+    "group_id": "template-0-14",
+    "text": "Логин @example_user_06 используется как пример в инструкции. Тема обращения: возврат, заявка 206.",
+    "label": 0,
+    "source": "synthetic_template",
+    "review_status": "pending",
+    "score": 0.7671792996849339,
+    "prediction": 1
+  },
+  {
+    "id": "0-14-7",
+    "group_id": "template-0-14",
+    "text": "Логин @example_user_07 используется как пример в инструкции. Тема обращения: запись, заявка 207.",
+    "label": 0,
+    "source": "synthetic_template",
+    "review_status": "pending",
+    "score": 0.7719591379433605,
+    "prediction": 1
+  },
+  {
+    "id": "0-14-8",
+    "group_id": "template-0-14",
+    "text": "Логин @example_user_08 используется как пример в инструкции. Тема обращения: доставка, заявка 208.",
+    "label": 0,
+    "source": "synthetic_template",
+    "review_status": "pending",
+    "score": 0.7626552987656516,
+    "prediction": 1
+  },
+  {
+    "id": "0-14-9",
+    "group_id": "template-0-14",
+    "text": "Логин @example_user_09 используется как пример в инструкции. Тема обращения: оплата, заявка 209.",
+    "label": 0,
+    "source": "synthetic_template",
+    "review_status": "pending",
+    "score": 0.7658709289163209,
+    "prediction": 1
+  },
+  {
+    "id": "0-14-10",
+    "group_id": "template-0-14",
+    "text": "Логин @example_user_10 используется как пример в инструкции. Тема обращения: возврат, заявка 210.",
+    "label": 0,
+    "source": "synthetic_template",
+    "review_status": "pending",
+    "score": 0.7624165057237378,
+    "prediction": 1
+  },
+  {
+    "id": "0-14-14",
+    "group_id": "template-0-14",
+    "text": "Логин @example_user_14 используется как пример в инструкции. Тема обращения: возврат, заявка 214.",
+    "label": 0,
+    "source": "synthetic_template",
+    "review_status": "pending",
+    "score": 0.7617206920994622,
+    "prediction": 1
+  },
+  {
+    "id": "0-14-15",
+    "group_id": "template-0-14",
+    "text": "Логин @example_user_15 используется как пример в инструкции. Тема обращения: запись, заявка 215.",
+    "label": 0,
+    "source": "synthetic_template",
+    "review_status": "pending",
+    "score": 0.7661467411099764,
+    "prediction": 1
+  },
+  {
+    "id": "0-18-0",
+    "group_id": "template-0-18",
+    "text": "На сайте https://example.invalid/page/0 опубликована документация. Тема обращения: доставка, заявка 200.",
+    "label": 0,
+    "source": "synthetic_template",
+    "review_status": "pending",
+    "score": 0.8794162748687044,
+    "prediction": 1
+  },
+  {
+    "id": "0-18-1",
+    "group_id": "template-0-18",
+    "text": "На сайте https://example.invalid/page/1 опубликована документация. Тема обращения: оплата, заявка 201.",
+    "label": 0,
+    "source": "synthetic_template",
+    "review_status": "pending",
+    "score": 0.873675839613401,
+    "prediction": 1
+  },
+  {
+    "id": "0-18-2",
+    "group_id": "template-0-18",
+    "text": "На сайте https://example.invalid/page/2 опубликована документация. Тема обращения: возврат, заявка 202.",
+    "label": 0,
+    "source": "synthetic_template",
+    "review_status": "pending",
+    "score": 0.8666645604472706,
+    "prediction": 1
+  },
+  {
+    "id": "0-18-3",
+    "group_id": "template-0-18",
+    "text": "На сайте https://example.invalid/page/3 опубликована документация. Тема обращения: запись, заявка 203.",
+    "label": 0,
+    "source": "synthetic_template",
+    "review_status": "pending",
+    "score": 0.8766508540267667,
+    "prediction": 1
+  },
+  {
+    "id": "0-18-4",
+    "group_id": "template-0-18",
+    "text": "На сайте https://example.invalid/page/4 опубликована документация. Тема обращения: доставка, заявка 204.",
+    "label": 0,
+    "source": "synthetic_template",
+    "review_status": "pending",
+    "score": 0.8570578789531053,
+    "prediction": 1
+  },
+  {
+    "id": "0-18-5",
+    "group_id": "template-0-18",
+    "text": "На сайте https://example.invalid/page/5 опубликована документация. Тема обращения: оплата, заявка 205.",
+    "label": 0,
+    "source": "synthetic_template",
+    "review_status": "pending",
+    "score": 0.8707346611956945,
+    "prediction": 1
+  },
+  {
+    "id": "0-18-6",
+    "group_id": "template-0-18",
+    "text": "На сайте https://example.invalid/page/6 опубликована документация. Тема обращения: возврат, заявка 206.",
+    "label": 0,
+    "source": "synthetic_template",
+    "review_status": "pending",
+    "score": 0.8712742300281545,
+    "prediction": 1
+  },
+  {
+    "id": "0-18-7",
+    "group_id": "template-0-18",
+    "text": "На сайте https://example.invalid/page/7 опубликована документация. Тема обращения: запись, заявка 207.",
+    "label": 0,
+    "source": "synthetic_template",
+    "review_status": "pending",
+    "score": 0.8755297509047232,
+    "prediction": 1
+  },
+  {
+    "id": "0-18-8",
+    "group_id": "template-0-18",
+    "text": "На сайте https://example.invalid/page/8 опубликована документация. Тема обращения: доставка, заявка 208.",
+    "label": 0,
+    "source": "synthetic_template",
+    "review_status": "pending",
+    "score": 0.8637417548290369,
+    "prediction": 1
+  },
+  {
+    "id": "0-18-9",
+    "group_id": "template-0-18",
+    "text": "На сайте https://example.invalid/page/9 опубликована документация. Тема обращения: оплата, заявка 209.",
+    "label": 0,
+    "source": "synthetic_template",
+    "review_status": "pending",
+    "score": 0.8700475662953893,
+    "prediction": 1
+  },
+  {
+    "id": "0-18-10",
+    "group_id": "template-0-18",
+    "text": "На сайте https://example.invalid/page/10 опубликована документация. Тема обращения: возврат, заявка 210.",
+    "label": 0,
+    "source": "synthetic_template",
+    "review_status": "pending",
+    "score": 0.8790297158537133,
+    "prediction": 1
+  },
+  {
+    "id": "0-18-11",
+    "group_id": "template-0-18",
+    "text": "На сайте https://example.invalid/page/11 опубликована документация. Тема обращения: запись, заявка 211.",
+    "label": 0,
+    "source": "synthetic_template",
+    "review_status": "pending",
+    "score": 0.8668774775819428,
+    "prediction": 1
+  },
+  {
+    "id": "0-18-12",
+    "group_id": "template-0-18",
+    "text": "На сайте https://example.invalid/page/12 опубликована документация. Тема обращения: доставка, заявка 212.",
+    "label": 0,
+    "source": "synthetic_template",
+    "review_status": "pending",
+    "score": 0.8708931165663614,
+    "prediction": 1
+  },
+  {
+    "id": "0-18-13",
+    "group_id": "template-0-18",
+    "text": "На сайте https://example.invalid/page/13 опубликована документация. Тема обращения: оплата, заявка 213.",
+    "label": 0,
+    "source": "synthetic_template",
+    "review_status": "pending",
+    "score": 0.876330396116698,
+    "prediction": 1
+  },
+  {
+    "id": "0-18-14",
+    "group_id": "template-0-18",
+    "text": "На сайте https://example.invalid/page/14 опубликована документация. Тема обращения: возврат, заявка 214.",
+    "label": 0,
+    "source": "synthetic_template",
+    "review_status": "pending",
+    "score": 0.8779848855098283,
+    "prediction": 1
+  },
+  {
+    "id": "0-18-15",
+    "group_id": "template-0-18",
+    "text": "На сайте https://example.invalid/page/15 опубликована документация. Тема обращения: запись, заявка 215.",
+    "label": 0,
+    "source": "synthetic_template",
+    "review_status": "pending",
+    "score": 0.8817862932909757,
+    "prediction": 1
+  },
+  {
+    "id": "1-1-0",
+    "group_id": "template-1-1",
+    "text": "Давай обсудим в WhatsApp, номер +0 000 000 00 00. Тема обращения: доставка, заявка 200.",
+    "label": 1,
+    "source": "synthetic_template",
+    "review_status": "pending",
+    "score": 0.7488507721796902,
+    "prediction": 0
+  },
+  {
+    "id": "1-1-1",
+    "group_id": "template-1-1",
+    "text": "Давай обсудим в WhatsApp, номер +0 000 000 01 01. Тема обращения: оплата, заявка 201.",
+    "label": 1,
+    "source": "synthetic_template",
+    "review_status": "pending",
+    "score": 0.6909578978224925,
+    "prediction": 0
+  },
+  {
+    "id": "1-1-2",
+    "group_id": "template-1-1",
+    "text": "Давай обсудим в WhatsApp, номер +0 000 000 02 02. Тема обращения: возврат, заявка 202.",
+    "label": 1,
+    "source": "synthetic_template",
+    "review_status": "pending",
+    "score": 0.6934000842739537,
+    "prediction": 0
+  },
+  {
+    "id": "1-1-3",
+    "group_id": "template-1-1",
+    "text": "Давай обсудим в WhatsApp, номер +0 000 000 03 03. Тема обращения: запись, заявка 203.",
+    "label": 1,
+    "source": "synthetic_template",
+    "review_status": "pending",
+    "score": 0.710290780101639,
+    "prediction": 0
+  },
+  {
+    "id": "1-1-4",
+    "group_id": "template-1-1",
+    "text": "Давай обсудим в WhatsApp, номер +0 000 000 04 04. Тема обращения: доставка, заявка 204.",
+    "label": 1,
+    "source": "synthetic_template",
+    "review_status": "pending",
+    "score": 0.679537427704835,
+    "prediction": 0
+  },
+  {
+    "id": "1-1-5",
+    "group_id": "template-1-1",
+    "text": "Давай обсудим в WhatsApp, номер +0 000 000 05 05. Тема обращения: оплата, заявка 205.",
+    "label": 1,
+    "source": "synthetic_template",
+    "review_status": "pending",
+    "score": 0.7052493950595543,
+    "prediction": 0
+  },
+  {
+    "id": "1-1-6",
+    "group_id": "template-1-1",
+    "text": "Давай обсудим в WhatsApp, номер +0 000 000 06 06. Тема обращения: возврат, заявка 206.",
+    "label": 1,
+    "source": "synthetic_template",
+    "review_status": "pending",
+    "score": 0.6831579086087263,
+    "prediction": 0
+  },
+  {
+    "id": "1-1-7",
+    "group_id": "template-1-1",
+    "text": "Давай обсудим в WhatsApp, номер +0 000 000 07 07. Тема обращения: запись, заявка 207.",
+    "label": 1,
+    "source": "synthetic_template",
+    "review_status": "pending",
+    "score": 0.7033698007013395,
+    "prediction": 0
+  },
+  {
+    "id": "1-1-8",
+    "group_id": "template-1-1",
+    "text": "Давай обсудим в WhatsApp, номер +0 000 000 08 08. Тема обращения: доставка, заявка 208.",
+    "label": 1,
+    "source": "synthetic_template",
+    "review_status": "pending",
+    "score": 0.6953686300100853,
+    "prediction": 0
+  },
+  {
+    "id": "1-1-9",
+    "group_id": "template-1-1",
+    "text": "Давай обсудим в WhatsApp, номер +0 000 000 09 09. Тема обращения: оплата, заявка 209.",
+    "label": 1,
+    "source": "synthetic_template",
+    "review_status": "pending",
+    "score": 0.6995030490627446,
+    "prediction": 0
+  },
+  {
+    "id": "1-1-10",
+    "group_id": "template-1-1",
+    "text": "Давай обсудим в WhatsApp, номер +0 000 000 10 10. Тема обращения: возврат, заявка 210.",
+    "label": 1,
+    "source": "synthetic_template",
+    "review_status": "pending",
+    "score": 0.6659394318746039,
+    "prediction": 0
+  },
+  {
+    "id": "1-1-11",
+    "group_id": "template-1-1",
+    "text": "Давай обсудим в WhatsApp, номер +0 000 000 11 11. Тема обращения: запись, заявка 211.",
+    "label": 1,
+    "source": "synthetic_template",
+    "review_status": "pending",
+    "score": 0.6563424555610249,
+    "prediction": 0
+  },
+  {
+    "id": "1-1-12",
+    "group_id": "template-1-1",
+    "text": "Давай обсудим в WhatsApp, номер +0 000 000 12 12. Тема обращения: доставка, заявка 212.",
+    "label": 1,
+    "source": "synthetic_template",
+    "review_status": "pending",
+    "score": 0.6873222151627153,
+    "prediction": 0
+  },
+  {
+    "id": "1-1-13",
+    "group_id": "template-1-1",
+    "text": "Давай обсудим в WhatsApp, номер +0 000 000 13 13. Тема обращения: оплата, заявка 213.",
+    "label": 1,
+    "source": "synthetic_template",
+    "review_status": "pending",
+    "score": 0.6902402433458473,
+    "prediction": 0
+  },
+  {
+    "id": "1-1-14",
+    "group_id": "template-1-1",
+    "text": "Давай обсудим в WhatsApp, номер +0 000 000 14 14. Тема обращения: возврат, заявка 214.",
+    "label": 1,
+    "source": "synthetic_template",
+    "review_status": "pending",
+    "score": 0.6894745529416139,
+    "prediction": 0
+  },
+  {
+    "id": "1-1-15",
+    "group_id": "template-1-1",
+    "text": "Давай обсудим в WhatsApp, номер +0 000 000 15 15. Тема обращения: запись, заявка 215.",
+    "label": 1,
+    "source": "synthetic_template",
+    "review_status": "pending",
+    "score": 0.6953349973336903,
+    "prediction": 0
+  }
+]

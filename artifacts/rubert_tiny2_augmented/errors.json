@@ -1,0 +1,342 @@
+[
+  {
+    "id": "0-14-0",
+    "group_id": "template-0-14",
+    "text": "Логин @example_user_00 используется как пример в инструкции. Тема обращения: доставка, заявка 200.",
+    "label": 0,
+    "source": "synthetic_template",
+    "review_status": "pending",
+    "score": 0.9320082068443298,
+    "prediction": 1
+  },
+  {
+    "id": "0-18-0",
+    "group_id": "template-0-18",
+    "text": "На сайте https://example.invalid/page/0 опубликована документация. Тема обращения: доставка, заявка 200.",
+    "label": 0,
+    "source": "synthetic_template",
+    "review_status": "pending",
+    "score": 0.9320937395095825,
+    "prediction": 1
+  },
+  {
+    "id": "1-1-0",
+    "group_id": "template-1-1",
+    "text": "Давай обсудим в WhatsApp, номер +0 000 000 00 00. Тема обращения: доставка, заявка 200.",
+    "label": 1,
+    "source": "synthetic_template",
+    "review_status": "pending",
+    "score": 0.8925327062606812,
+    "prediction": 0
+  },
+  {
+    "id": "1-1-1",
+    "group_id": "template-1-1",
+    "text": "Давай обсудим в WhatsApp, номер +0 000 000 01 01. Тема обращения: оплата, заявка 201.",
+    "label": 1,
+    "source": "synthetic_template",
+    "review_status": "pending",
+    "score": 0.8861771821975708,
+    "prediction": 0
+  },
+  {
+    "id": "1-1-2",
+    "group_id": "template-1-1",
+    "text": "Давай обсудим в WhatsApp, номер +0 000 000 02 02. Тема обращения: возврат, заявка 202.",
+    "label": 1,
+    "source": "synthetic_template",
+    "review_status": "pending",
+    "score": 0.8900222182273865,
+    "prediction": 0
+  },
+  {
+    "id": "1-1-3",
+    "group_id": "template-1-1",
+    "text": "Давай обсудим в WhatsApp, номер +0 000 000 03 03. Тема обращения: запись, заявка 203.",
+    "label": 1,
+    "source": "synthetic_template",
+    "review_status": "pending",
+    "score": 0.887427568435669,
+    "prediction": 0
+  },
+  {
+    "id": "1-1-4",
+    "group_id": "template-1-1",
+    "text": "Давай обсудим в WhatsApp, номер +0 000 000 04 04. Тема обращения: доставка, заявка 204.",
+    "label": 1,
+    "source": "synthetic_template",
+    "review_status": "pending",
+    "score": 0.8622975945472717,
+    "prediction": 0
+  },
+  {
+    "id": "1-1-5",
+    "group_id": "template-1-1",
+    "text": "Давай обсудим в WhatsApp, номер +0 000 000 05 05. Тема обращения: оплата, заявка 205.",
+    "label": 1,
+    "source": "synthetic_template",
+    "review_status": "pending",
+    "score": 0.8890101313591003,
+    "prediction": 0
+  },
+  {
+    "id": "1-1-6",
+    "group_id": "template-1-1",
+    "text": "Давай обсудим в WhatsApp, номер +0 000 000 06 06. Тема обращения: возврат, заявка 206.",
+    "label": 1,
+    "source": "synthetic_template",
+    "review_status": "pending",
+    "score": 0.8899292945861816,
+    "prediction": 0
+  },
+  {
+    "id": "1-1-7",
+    "group_id": "template-1-1",
+    "text": "Давай обсудим в WhatsApp, номер +0 000 000 07 07. Тема обращения: запись, заявка 207.",
+    "label": 1,
+    "source": "synthetic_template",
+    "review_status": "pending",
+    "score": 0.8972748517990112,
+    "prediction": 0
+  },
+  {
+    "id": "1-1-8",
+    "group_id": "template-1-1",
+    "text": "Давай обсудим в WhatsApp, номер +0 000 000 08 08. Тема обращения: доставка, заявка 208.",
+    "label": 1,
+    "source": "synthetic_template",
+    "review_status": "pending",
+    "score": 0.8821026086807251,
+    "prediction": 0
+  },
+  {
+    "id": "1-1-9",
+    "group_id": "template-1-1",
+    "text": "Давай обсудим в WhatsApp, номер +0 000 000 09 09. Тема обращения: оплата, заявка 209.",
+    "label": 1,
+    "source": "synthetic_template",
+    "review_status": "pending",
+    "score": 0.8798677325248718,
+    "prediction": 0
+  },
+  {
+    "id": "1-1-10",
+    "group_id": "template-1-1",
+    "text": "Давай обсудим в WhatsApp, номер +0 000 000 10 10. Тема обращения: возврат, заявка 210.",
+    "label": 1,
+    "source": "synthetic_template",
+    "review_status": "pending",
+    "score": 0.8800576329231262,
+    "prediction": 0
+  },
+  {
+    "id": "1-1-11",
+    "group_id": "template-1-1",
+    "text": "Давай обсудим в WhatsApp, номер +0 000 000 11 11. Тема обращения: запись, заявка 211.",
+    "label": 1,
+    "source": "synthetic_template",
+    "review_status": "pending",
+    "score": 0.890038013458252,
+    "prediction": 0
+  },
+  {
+    "id": "1-1-12",
+    "group_id": "template-1-1",
+    "text": "Давай обсудим в WhatsApp, номер +0 000 000 12 12. Тема обращения: доставка, заявка 212.",
+    "label": 1,
+    "source": "synthetic_template",
+    "review_status": "pending",
+    "score": 0.8872504830360413,
+    "prediction": 0
+  },
+  {
+    "id": "1-1-13",
+    "group_id": "template-1-1",
+    "text": "Давай обсудим в WhatsApp, номер +0 000 000 13 13. Тема обращения: оплата, заявка 213.",
+    "label": 1,
+    "source": "synthetic_template",
+    "review_status": "pending",
+    "score": 0.8854708075523376,
+    "prediction": 0
+  },
+  {
+    "id": "1-1-14",
+    "group_id": "template-1-1",
+    "text": "Давай обсудим в WhatsApp, номер +0 000 000 14 14. Тема обращения: возврат, заявка 214.",
+    "label": 1,
+    "source": "synthetic_template",
+    "review_status": "pending",
+    "score": 0.8735656142234802,
+    "prediction": 0
+  },
+  {
+    "id": "1-1-15",
+    "group_id": "template-1-1",
+    "text": "Давай обсудим в WhatsApp, номер +0 000 000 15 15. Тема обращения: запись, заявка 215.",
+    "label": 1,
+    "source": "synthetic_template",
+    "review_status": "pending",
+    "score": 0.8970542550086975,
+    "prediction": 0
+  },
+  {
+    "id": "1-16-0",
+    "group_id": "template-1-16",
+    "text": "Набери +0 000 000 00 00, договоримся напрямую. Тема обращения: доставка, заявка 200.",
+    "label": 1,
+    "source": "synthetic_template",
+    "review_status": "pending",
+    "score": 0.8803797960281372,
+    "prediction": 0
+  },
+  {
+    "id": "1-16-1",
+    "group_id": "template-1-16",
+    "text": "Набери +0 000 000 01 01, договоримся напрямую. Тема обращения: оплата, заявка 201.",
+    "label": 1,
+    "source": "synthetic_template",
+    "review_status": "pending",
+    "score": 0.8819034099578857,
+    "prediction": 0
+  },
+  {
+    "id": "1-16-2",
+    "group_id": "template-1-16",
+    "text": "Набери +0 000 000 02 02, договоримся напрямую. Тема обращения: возврат, заявка 202.",
+    "label": 1,
+    "source": "synthetic_template",
+    "review_status": "pending",
+    "score": 0.8802148103713989,
+    "prediction": 0
+  },
+  {
+    "id": "1-16-3",
+    "group_id": "template-1-16",
+    "text": "Набери +0 000 000 03 03, договоримся напрямую. Тема обращения: запись, заявка 203.",
+    "label": 1,
+    "source": "synthetic_template",
+    "review_status": "pending",
+    "score": 0.8708654642105103,
+    "prediction": 0
+  },
+  {
+    "id": "1-16-4",
+    "group_id": "template-1-16",
+    "text": "Набери +0 000 000 04 04, договоримся напрямую. Тема обращения: доставка, заявка 204.",
+    "label": 1,
+    "source": "synthetic_template",
+    "review_status": "pending",
+    "score": 0.845703661441803,
+    "prediction": 0
+  },
+  {
+    "id": "1-16-5",
+    "group_id": "template-1-16",
+    "text": "Набери +0 000 000 05 05, договоримся напрямую. Тема обращения: оплата, заявка 205.",
+    "label": 1,
+    "source": "synthetic_template",
+    "review_status": "pending",
+    "score": 0.8809513449668884,
+    "prediction": 0
+  },
+  {
+    "id": "1-16-6",
+    "group_id": "template-1-16",
+    "text": "Набери +0 000 000 06 06, договоримся напрямую. Тема обращения: возврат, заявка 206.",
+    "label": 1,
+    "source": "synthetic_template",
+    "review_status": "pending",
+    "score": 0.8698434233665466,
+    "prediction": 0
+  },
+  {
+    "id": "1-16-7",
+    "group_id": "template-1-16",
+    "text": "Набери +0 000 000 07 07, договоримся напрямую. Тема обращения: запись, заявка 207.",
+    "label": 1,
+    "source": "synthetic_template",
+    "review_status": "pending",
+    "score": 0.8857706189155579,
+    "prediction": 0
+  },
+  {
+    "id": "1-16-8",
+    "group_id": "template-1-16",
+    "text": "Набери +0 000 000 08 08, договоримся напрямую. Тема обращения: доставка, заявка 208.",
+    "label": 1,
+    "source": "synthetic_template",
+    "review_status": "pending",
+    "score": 0.8643252849578857,
+    "prediction": 0
+  },
+  {
+    "id": "1-16-9",
+    "group_id": "template-1-16",
+    "text": "Набери +0 000 000 09 09, договоримся напрямую. Тема обращения: оплата, заявка 209.",
+    "label": 1,
+    "source": "synthetic_template",
+    "review_status": "pending",
+    "score": 0.8596774339675903,
+    "prediction": 0
+  },
+  {
+    "id": "1-16-10",
+    "group_id": "template-1-16",
+    "text": "Набери +0 000 000 10 10, договоримся напрямую. Тема обращения: возврат, заявка 210.",
+    "label": 1,
+    "source": "synthetic_template",
+    "review_status": "pending",
+    "score": 0.8672688007354736,
+    "prediction": 0
+  },
+  {
+    "id": "1-16-11",
+    "group_id": "template-1-16",
+    "text": "Набери +0 000 000 11 11, договоримся напрямую. Тема обращения: запись, заявка 211.",
+    "label": 1,
+    "source": "synthetic_template",
+    "review_status": "pending",
+    "score": 0.8800734281539917,
+    "prediction": 0
+  },
+  {
+    "id": "1-16-12",
+    "group_id": "template-1-16",
+    "text": "Набери +0 000 000 12 12, договоримся напрямую. Тема обращения: доставка, заявка 212.",
+    "label": 1,
+    "source": "synthetic_template",
+    "review_status": "pending",
+    "score": 0.8765062093734741,
+    "prediction": 0
+  },
+  {
+    "id": "1-16-13",
+    "group_id": "template-1-16",
+    "text": "Набери +0 000 000 13 13, договоримся напрямую. Тема обращения: оплата, заявка 213.",
+    "label": 1,
+    "source": "synthetic_template",
+    "review_status": "pending",
+    "score": 0.8681108355522156,
+    "prediction": 0
+  },
+  {
+    "id": "1-16-14",
+    "group_id": "template-1-16",
+    "text": "Набери +0 000 000 14 14, договоримся напрямую. Тема обращения: возврат, заявка 214.",
+    "label": 1,
+    "source": "synthetic_template",
+    "review_status": "pending",
+    "score": 0.8587610125541687,
+    "prediction": 0
+  },
+  {
+    "id": "1-16-15",
+    "group_id": "template-1-16",
+    "text": "Набери +0 000 000 15 15, договоримся напрямую. Тема обращения: запись, заявка 215.",
+    "label": 1,
+    "source": "synthetic_template",
+    "review_status": "pending",
+    "score": 0.8877620100975037,
+    "prediction": 0
+  }
+]
